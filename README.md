@@ -1,3 +1,4 @@
 # nier-dots
 
-![image](https://github.com/xekuri/nier-dots/assets/171378371/71f0a7cd-8bb6-4f3c-91b0-14a2b5781629)
+
+![rice](https://github.com/xekuri/nier-dots/assets/171378371/447b7dc6-927e-4a41-9cf3-bcf52a6b30fa)
